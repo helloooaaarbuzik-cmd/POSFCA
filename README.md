@@ -1,2 +1,3 @@
 # POSFCA
 This is very useful for people who only know Python, and it requires almost nothing.  Python Open Source Free Compil Asm/C
+My compiler is designed for operating systems and kernels; a key advantage is that it is free, and you aren't even required to credit the author within the operating system itself—unlike COSMOS, which does require this (I mention COSMOS because we share many similarities, though my compiler is far more flexible regarding where you use it: want to use VSCode? Go ahead. Want to use standard Notepad? Sure, go right ahead—it makes no difference where you use it). The compiler has been tested in a Linux/Debian environment.
